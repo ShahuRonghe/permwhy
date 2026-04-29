@@ -1,0 +1,24 @@
+# Binaries
+permwhy
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries and coverage
+*.test
+*.out
+coverage.out
+cover.out
+
+# Build output
+bin/
+dist/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
